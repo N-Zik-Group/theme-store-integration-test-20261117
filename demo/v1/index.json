@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "name": "atlas.jpg",
+      "sha256": "abd0fca4a53857ceab8c6b3620dbb5f5b0232de31d69db76df903f6cc5203b24"
+    },
+    {
+      "name": "signal.jpg",
+      "sha256": "1fc8333e75cf411c22d999493703bbb049ed1acb69d7f57fa9d89f976685f84f"
+    },
+    {
+      "name": "silence.mp3",
+      "sha256": "9eeb33b69c00b824592ccd6f8839685ac503890a462ef91cd997d158e0dabdd3"
+    },
+    {
+      "name": "tide.jpg",
+      "sha256": "1d4a36ad822bb30f30882b10e54972470bf91435d13322dee674dbe4bf975531"
+    },
+    {
+      "name": "violet.jpg",
+      "sha256": "a1e926d520015faaa2e631d9b086b4b5fe58ba6515a67d047b960b2105a7d1e6"
+    }
+  ]
+}

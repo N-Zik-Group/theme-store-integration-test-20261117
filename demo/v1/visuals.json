@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "covers": [
+    {
+      "name": "atlas.jpg",
+      "sha256": "abd0fca4a53857ceab8c6b3620dbb5f5b0232de31d69db76df903f6cc5203b24"
+    },
+    {
+      "name": "signal.jpg",
+      "sha256": "1fc8333e75cf411c22d999493703bbb049ed1acb69d7f57fa9d89f976685f84f"
+    },
+    {
+      "name": "tide.jpg",
+      "sha256": "1d4a36ad822bb30f30882b10e54972470bf91435d13322dee674dbe4bf975531"
+    },
+    {
+      "name": "violet.jpg",
+      "sha256": "a1e926d520015faaa2e631d9b086b4b5fe58ba6515a67d047b960b2105a7d1e6"
+    },
+    {
+      "name": "ember.jpg",
+      "sha256": "28a25fc1ec258b22eb478492c105997819b996149c982bf05dff3300d5515050"
+    }
+  ],
+  "banners": [
+    {
+      "name": "banners/atlas.webp",
+      "sha256": "dcd1173ce33690bddb72d7a966ccbf780b1038b29d66fc2ed0a52b45b41ef1e1"
+    },
+    {
+      "name": "banners/signal.webp",
+      "sha256": "a6963353002a770ed7865dca55f691c00d4512f5013fb18b99a52d7a1d576988"
+    },
+    {
+      "name": "banners/tide.webp",
+      "sha256": "e935eff3e2be3d35a676988a07fa2b7b51351a77be9fcf57a05c69c2365ea691"
+    },
+    {
+      "name": "banners/violet.webp",
+      "sha256": "96f0c55057ac6e59a76f2f4d926ff3531af5af25f75715cd35d3821a45c0e475"
+    },
+    {
+      "name": "banners/ember.webp",
+      "sha256": "3ba3c345fcecd0a0a9d71de0a8b2b8993e08b96dd03233c05971c69f071ccc39"
+    }
+  ]
+}
