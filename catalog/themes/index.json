@@ -1,4 +1,10 @@
 {
   "schemaVersion": 1,
-  "themes": []
+  "themes": [
+    {
+      "themeId": "ae201969-7878-5095-8c5f-8c05d3cdb38c",
+      "revision": 1,
+      "manifestSha256": "fe81af176dba3d7da17dd589416946b6e09a730bb8b97b5fe6181bd2a1865649"
+    }
+  ]
 }
