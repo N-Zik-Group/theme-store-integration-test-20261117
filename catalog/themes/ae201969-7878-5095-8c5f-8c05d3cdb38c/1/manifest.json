@@ -3,7 +3,7 @@
   "themeId": "ae201969-7878-5095-8c5f-8c05d3cdb38c",
   "revision": 1,
   "title": "Manual profile merge live test changed-head",
-  "description": "Temporary isolated fixture for changed-head",
+  "description": "Changed after maintainer approval: requires a fresh acceptance.",
   "author": {
     "githubId": 63956787,
     "login": "NEVARLeVrai"
